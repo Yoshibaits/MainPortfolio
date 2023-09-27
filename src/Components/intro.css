@@ -1,0 +1,10 @@
+.profile{
+    height: 500px;
+    box-shadow: 2px 5px 30px;
+}
+
+.align{
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}

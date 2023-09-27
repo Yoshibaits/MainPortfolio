@@ -1,0 +1,13 @@
+.image-custom{
+    height: 300px;
+    width: 200px;
+}
+.text_custom{
+    color: black;
+    text-decoration: none;
+}
+
+.award-img{
+    height: 45rem;
+    border-radius: 2%;
+}
